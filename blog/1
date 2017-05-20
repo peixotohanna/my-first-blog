@@ -1,0 +1,13 @@
+$ git config user.name "thetube"
+$ git config user.email peixoto.hanna@gmail.combash: $: command not found
+
+LCC-537899+aluno@lcc-537899 MINGW64 ~/desktop/intro_py
+$ Initialized empty Git repository in ~/djangogirls/.git/
+bash: Initialized: command not found
+
+LCC-537899+aluno@lcc-537899 MINGW64 ~/desktop/intro_py
+$ $ git config user.name "thetube"
+bash: $: command not found
+
+LCC-537899+aluno@lcc-537899 MINGW64 ~/desktop/intro_py
+$ $ git config user.email peixoto.hanna@gmail.com
